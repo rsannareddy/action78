@@ -1,3 +1,4 @@
+#Welcome to the temperature converter
 from rich.console import Console
 from rich.table import Table
 from rich.progress import track
