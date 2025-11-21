@@ -2,6 +2,7 @@
 from rich.console import Console
 from rich.table import Table
 from rich.progress import track
+
 from time import sleep
 
 console = Console()
